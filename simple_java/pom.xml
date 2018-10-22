@@ -62,22 +62,7 @@
       </plugins>
     </pluginManagement>
   </build>
-  
-  <settings>
-<servers>
-  <server>
-   <id>releases</id>
-   <username>deployment</username>
-   <password>deployment123</password>
-  </server>
-  <server>
-    <id>snapshots</id>
-    <username>deployment</username>
-    <password>deployment123</password>
-  </server>
-</servers>
-</settings>
-  
+
   <distributionManagement>
     <repository>
     <id>releases</id>
